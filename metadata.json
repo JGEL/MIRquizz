@@ -1,0 +1,6 @@
+{
+  "name": "MIR Quiz App",
+  "description": "Una aplicación web para practicar preguntas del examen MIR, clasificadas por sistemas. Los usuarios pueden seleccionar una especialidad, responder preguntas de opción múltiple y recibir retroalimentación instantánea sobre sus respuestas.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
